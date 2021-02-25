@@ -9,3 +9,4 @@ Implements the following strategies:
 • LCV (least constraining value) Heuristic   
 
 Only works with Python2.7
+EECS 348 
