@@ -10,4 +10,4 @@ Implements the following strategies:
 
 Only works with Python2.7
 
-EECS 348: Introduction to AI
+EECS 348: Introduction to AI Spring '15
