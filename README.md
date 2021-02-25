@@ -1,4 +1,4 @@
-# Sudoku
+# Sudoku Solver
 
 A constraint satisfaction problem solver to solve sudoku puzzles of varying size.   
 Implements the following strategies:  
@@ -7,3 +7,5 @@ Implements the following strategies:
 • MRV (minimum remaining values) Heuristic   
 • MCV (most contrained variable--degree) Heuristic   
 • LCV (least constraining value) Heuristic   
+
+Only works with Python2.7
